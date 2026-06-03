@@ -1,12 +1,12 @@
 # Air Quality Index Prediction Using Machine Learning
 
-## Live Demo
+Streamlit application link
 
-Add your Streamlit application link here
+[## GitHub Repository](https://aqi-prediction-using-machine-learning.streamlit.app/#air-quality-index-prediction)
 
-## GitHub Repository
+GitHub repository link
 
-Add your GitHub repository link here
+[## Academic Project Overview](https://github.com/Likhin1404/AQI-Prediction-Using-Machine-Learning)
 
 ## Academic Project Overview
 
