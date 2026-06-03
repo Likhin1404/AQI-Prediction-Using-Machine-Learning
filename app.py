@@ -4,9 +4,10 @@ import joblib
 
 model = joblib.load("aqi_model.pkl")
 
-st.title("Air Quality Index Prediction")
+st.title("🌍 Air Quality Index Prediction")
+
 st.markdown(
-    "[View Source Code on GitHub](https://github.com/yourusername/AQI-Prediction-Using-Machine-Learning)"
+    "[📂 View Full Project Source Code on GitHub](https://github.com/Likhin1404/AQI-Prediction-Using-Machine-Learning)"
 )
 st.write("Enter pollutant AQI values")
 
